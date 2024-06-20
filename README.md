@@ -1,6 +1,6 @@
 Hi, I’m Batu Helvacıoğlu @BatuHelva
-I’m interested in Artificial Intelligence.
-I’m currently an undergraduate student at Koç University and a Research and  Development Engineer Intern at Yapı Kredi Teknoloji.
+
+I’m currently pursuing a MSc Artificial Intelligence degree in University of Amsterdam.
 My CV and reports of the projects that I have completed can be found here. 
 Projects that I can share have their own repositories in my profile.
 
